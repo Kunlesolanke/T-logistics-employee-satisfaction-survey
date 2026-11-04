@@ -12,6 +12,7 @@ I built and ran an anonymous survey for 14 employees, analyzed the results, and 
 [https://docs.google.com/forms/d/e/1FAIpQLSfQdkKJfHF0lD9-ZRTuJcwl4ELLFeG4Qcy-dq0lU5lMNk1neg/viewform?usp=header]
 
 - Collected 14 anonymous responses
+- ![T-Logistics Dashboard](IMG-20261104-WA0107.jpg) — DATA COLLECTED(anonymous)
 - Cleaned and analyzed the data in Google Sheets / Excel
 - Built a dashboard to show what matters
 
