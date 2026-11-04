@@ -19,6 +19,7 @@ I built and ran an anonymous survey for 14 employees, analyzed the results, and 
 4. Would you recommend T-Logistics to a friend?
 
 ## What I Found
+![T-Logistics Dashboard](IMG-20261104-WA2969.jpg)
 42.9% are Very Satisfied — the core team is happy
 
  64.3% feel valued by their manager — management is doing something right
