@@ -42,7 +42,7 @@ Google Forms, Google Sheets, Excel, Data Analysis
 ## Files in This Repo
 - ![T-Logistics Dashboard](IMG-20261104-WA9451.jpg) — Visual summary of results
 - ![T-Logistics Dashboard](IMG-20261104-WA0107.jpg) — data (anonymous)
-- `responses.pdf` — Raw Google Forms export
+
 
 ## Live Form
  Google Form link i created 
