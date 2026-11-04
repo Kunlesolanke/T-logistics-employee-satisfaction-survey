@@ -36,7 +36,7 @@ But if pay and benefits don't improve, good people will leave for a better offer
 Google Forms, Google Sheets, Excel, Data Analysis
 
 ## Files in This Repo
-- `dashboard.png` — Visual summary of results
+- ![T-Logistics Dashboard](IMG-20261104-WA9451.jpg) — Visual summary of results
 - `responses.csv` — Cleaned data (anonymous)
 - `responses.pdf` — Raw Google Forms export
 
